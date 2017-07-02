@@ -113,6 +113,7 @@ jobs:
       nginx_ip: {{deploy_nginx_ip}}
       pcf_sys_domain: {{pcf_sys_domain}}
       pcf_ert_domain: {{pcf_ert_domain}}
+      pcf_doppler_port: {{pcf_doppler_port}}
       pcf_opsman_admin_username: {{pcf_opsman_admin_username}}
       pcf_opsman_admin_password: {{pcf_opsman_admin_password}}
       nats_machines: {{nats_machines}}
