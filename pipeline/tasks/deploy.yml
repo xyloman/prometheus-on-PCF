@@ -24,6 +24,7 @@ params:
   vm_type_small:
   nginx_ip:
   pcf_sys_domain:
+  pcf_doppler_port: 
   pcf_ert_domain:
   pcf_opsman_admin_username:
   pcf_opsman_admin_password:
