@@ -10,6 +10,7 @@ pcf_ert_domain: doma.in
 github_token: some_token
 
 pcf_sys_domain: sys.doma.in
+pcf_doppler_port: 4443
 
 prometheus_bosh_client: prometheus-bosh
 prometheus_bosh_secret: prometheus-client-secret
